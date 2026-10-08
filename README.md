@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ananyasharma402/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/ananyasharma402/DSA/tree/master/0031-next-permutation) |
 ## Binary Search
 |  |
@@ -48,8 +49,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananyasharma402/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ananyasharma402/DSA/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananyasharma402/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ananyasharma402/DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ananyasharma402/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
